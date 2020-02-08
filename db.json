@@ -1,1 +1,16 @@
-
+{
+  "permissions":[
+    {
+      "id":"READ_CATEGORY"
+    },
+    {
+      "id":"ADD_CATEGORY"
+    },
+    {
+      "id":"UPDATE_CATEGORY"
+    },
+    {
+      "id":"DELETE_CATEGORY"
+    }
+    ]
+}
